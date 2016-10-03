@@ -1,9 +1,12 @@
 # Mijn persoonlijke AHS informatie
-|       |       |
-| ----- | ----- |
-| Naam: | Tom Prieels |
-| Studierichting: | Multimediaproductie ProDev |
-| Campus: | GDM |
+|                     |                                |
+| ------------------- | ------------------------------ |
+| Student             | Tom Prieels                    |
+| Opleidingsonderdeel | New Media Design & Development |
+| Afstudeerrichting   | Multimediaproductie (MMP)      |
+| Specialisatie       | ProDev                         |
+| Academiejaar        | 2016-2017                      |
+| Onderwijsinstelling | Arteveldehogeschool            |
 
 Mappen
 ------
