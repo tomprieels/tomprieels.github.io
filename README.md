@@ -1,6 +1,6 @@
 # Mijn persoonlijke AHS informatie
-
-| :--- | :----- |
+|       |       |
+| ----- | ----- |
 | Naam: | Tom Prieels |
 | Studierichting: | Multimediaproductie ProDev |
 | Campus: | GDM |
