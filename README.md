@@ -1,7 +1,5 @@
-Comming Soon
-
 # Mijn persoonlijke AHS informatie
-|                     |                                |
+| Personalia          |                                |
 | ------------------- | ------------------------------ |
 | Student             | Tom Prieels                    |
 | Opleidingsonderdeel | New Media Design & Development |
